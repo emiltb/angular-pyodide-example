@@ -1,4 +1,4 @@
-# AngularPyodideExample
+# Using Pyodide to run Python code in Web Worker in an Angular Application
 
 This project illustrates an implementation of a Web Worker in an Angular application, which uses Python through Pyodide to run calculations. At the time of this writing the examples found online on how to do this was very sparse, which was the reason that I decided to develop this minimal working example. 
 
